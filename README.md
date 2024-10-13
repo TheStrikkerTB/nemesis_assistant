@@ -8,7 +8,7 @@ Este projeto cria um assistente de IA generativo que pode responder perguntas, f
 - Fornece códigos prontos sob demanda.
 - Executa comandos do sistema diretamente no terminal do Windows.
 
-## Como usar
+
 
 ### Pré-requisitos
 
@@ -17,9 +17,3 @@ Este projeto cria um assistente de IA generativo que pode responder perguntas, f
   - google-generativeai
   - python-dotenv
 
-### Passos para configurar
-
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
