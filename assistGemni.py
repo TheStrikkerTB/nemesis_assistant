@@ -17,7 +17,7 @@ history = [
 ]
 
 historyExecute = [
-    {"role": "user", "parts": ["Quando eu pedir o código eu quero somente o código pronto sem mais nem menos. Exemplo: código para desligar o PC, você vai me responder apenas shutdown /s /t 1, lembrando que tudo pelo terminal do Windows, não Linux"]},
+    {"role": "user", "parts": ["As suas respostas devem ser apenas comandos do Windows CMD, NUNCA usar scripts batch. Você pode fornecer múltiplos comandos em uma única linha, separados por '&&'. Por exemplo, para criar uma pasta, criar um arquivo dentro dessa pasta e inserir texto no arquivo, você pode responder: mkdir nova_pasta && echo texto > nova_pasta/arquivo.txt. Lembre-se de que todos os comandos devem ser executados no terminal do Windows, não no Linux."]},
     {"role": "model", "parts": ["Certo, qual código deseja saber?"]}
 ]
 

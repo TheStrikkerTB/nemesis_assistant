@@ -12,7 +12,7 @@ Este projeto cria um assistente de IA generativo que pode responder perguntas, f
 
 ### Pré-requisitos
 
-- Python 3.x
+- Python 3.12
 - Bibliotecas Python:
   - google-generativeai
   - python-dotenv
